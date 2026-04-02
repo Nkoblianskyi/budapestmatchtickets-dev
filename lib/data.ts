@@ -45,7 +45,7 @@ export const events: Event[] = [
     description:
       'A Ferencváros és az Újpest FC közötti rangadó az OTP Bank Ligában. Budapest két ikonikus csapatának találkozója a Groupama Arénában.',
     partners: [
-      { name: 'Ticketmaster', logo: '/images/partners/jegymester.svg', priceFrom: 3500, priceTo: 18000, url: 'https://jegymester.hu', badge: 'Legjobb ár' },
+      { name: 'Jegymester', logo: '/images/partners/jegymester.svg', priceFrom: 3500, priceTo: 18000, url: 'https://jegymester.hu', badge: 'Legjobb ár' },
       { name: 'Eventim', logo: '/images/partners/eventim.svg', priceFrom: 4200, priceTo: 20000, url: 'https://eventim.hu' },
       { name: 'StubHub', logo: '/images/partners/stubhub.svg', priceFrom: 5500, priceTo: 22000, url: 'https://stubhub.com' },
     ],

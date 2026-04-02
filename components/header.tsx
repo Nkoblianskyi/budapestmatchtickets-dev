@@ -60,6 +60,7 @@ export function Header() {
         <div className="relative flex h-16 items-center justify-between">
 
           <Link href="/" className="flex items-center space-x-2">
+            <img src="/favicon.ico" alt="Logo" className="h-8 w-8" />
             <div className="flex flex-col">
               <span className="font-heading text-xl font-bold leading-none text-primary md:text-2xl">
                 BUDAPEST
